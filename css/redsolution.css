@@ -68,10 +68,6 @@ ul.plain {
 		margin: 0;
 		}
 
-.clarfix {
-	clear: both;
-	}
-
 .dotted, .dashed {
 	text-decoration: none;
 	}
