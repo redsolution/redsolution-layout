@@ -23,6 +23,10 @@ img {
 	border: 0;
 	}
 
+p img {
+	margin: 3px;
+	}
+
 p {
 	margin: .8em 0;
 	}
